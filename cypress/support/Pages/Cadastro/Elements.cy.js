@@ -1,0 +1,21 @@
+export const ELEMENTS = {
+    url: 'https://www.automationexercise.com/login',
+    name: '[data-qa="signup-name"]',
+    email: '[data-qa="signup-email"]',
+    button1: '[data-qa="signup-button"]',
+    genero: '#id_gender1',
+    password: '[data-qa="password"]',
+    dia: '[data-qa="days"]',
+    mes: '[data-qa="months"]',
+    ano: '[data-qa="years"]',
+    nome: '[data-qa="first_name"]',
+    sobrenome: '[data-qa="last_name"]',
+    rua: '[data-qa="address"]',
+    país: '[data-qa="country"]',
+    estado: '[data-qa="state"]',
+    cidade: '[data-qa="city"]',
+    cep: '[data-qa="zipcode"]',
+    numero: '[data-qa="mobile_number"]',
+    button2: '[data-qa="create-account"]',
+    resultado: 'b'
+}
